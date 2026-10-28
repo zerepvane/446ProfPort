@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - "2026PerezResume.pdf"
+  
 
 website:
   title: "Vanessa Perez Porfolio"

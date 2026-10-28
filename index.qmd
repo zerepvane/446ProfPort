@@ -1,11 +1,18 @@
 ---
 title: "About Me"
+about:
+  template: solana
+  image: IMG_9252.jpg
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:vperez32@uic.edu
+    - text: GitHub
+      icon: github
+      href: https://github.com/zerepvane
+    - text: Resume
+      icon: file-text
+      href: 2026PerezResume.pdf
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hello, I am Vanessa Perez. I am current a Graduate Student at UIC in process of obtaining my Master of Science in Civic Analytics. Previously, I attended University of Illinois at Urbana-Champaign and obtained my B.S in Kinesiology.
