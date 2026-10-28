@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "2026PerezResume.pdf"
+    - "Perez402Project.pdf"
   
 
 website:
