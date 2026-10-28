@@ -12,7 +12,7 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: pastProject.qmd
+      - href: PastProject.qmd
         text: Past Project
 
 format:
