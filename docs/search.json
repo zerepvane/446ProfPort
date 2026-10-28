@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Hello, I am Vanessa Perez. I am current a Graduate Student at UIC in process of obtaining my Master of Science in Civic Analytics. Previously, I attended University of Illinois at Urbana-Champaign and obtained my B.S in Kinesiology."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "PastProject.html",
+    "href": "PastProject.html",
+    "title": "PastProject",
+    "section": "",
+    "text": "Here I have Included a PDF of a project I have worked on in the past. This is my project for my PA 402 course here at UIC. For this project, I looked into how socioeconomic status and school type shapes average SAT scores. I was able to manipulate and clean data from a chicago data portal in order to create the maps and tables shown using R."
+  }
+]
