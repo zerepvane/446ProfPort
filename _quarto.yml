@@ -2,12 +2,13 @@ project:
   type: website
 
 website:
-  title: "446ProfPort"
+  title: "Vanessa Perez Porfolio"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About Me
+      - href: pastProject.qmd
+        text: Past Project
 
 format:
   html:
