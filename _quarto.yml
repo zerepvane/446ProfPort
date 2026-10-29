@@ -17,11 +17,15 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
+    mainfont: georgia
+    fontsize: 1.5rem
+    fontcolor: "#0A0A0A"
+    linkcolor: "#1F64C4"
+    monofont: courier new
     css: styles.css
     toc: true
-
+# I chose flatly because I believe a navy blue background seems more professional and standard for portfolios. 
+# I wanted regular black font and then for links a slightly brighter blue.
 editor: visual
 
