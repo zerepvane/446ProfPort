@@ -12,6 +12,8 @@ website:
     left:
       - href: index.qmd
         text: About Me
+      - href: Resume.qmd
+        text: Resume
       - href: PastProject.qmd
         text: Past Project
 

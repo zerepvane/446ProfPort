@@ -19,3 +19,7 @@ about:
 ---
 
 Hello, I am Vanessa Perez. I am current a Graduate Student at UIC in process of obtaining my Master of Science in Civic Analytics. Previously, I attended University of Illinois at Urbana-Champaign and obtained my B.S in Kinesiology.
+
+::: callout-note
+The resume icon may not display resume. Please click on Resume page in order to view, if icon is not functional. Thank you!
+:::

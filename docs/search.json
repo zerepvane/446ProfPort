@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "Hello, I am Vanessa Perez. I am current a Graduate Student at UIC in process of obtaining my Master of Science in Civic Analytics. Previously, I attended University of Illinois at Urbana-Champaign and obtained my B.S in Kinesiology."
+    "text": "Hello, I am Vanessa Perez. I am current a Graduate Student at UIC in process of obtaining my Master of Science in Civic Analytics. Previously, I attended University of Illinois at Urbana-Champaign and obtained my B.S in Kinesiology.\n\n\n\n\n\n\nNote\n\n\n\nThe resume icon may not display resume. Please click on Resume page in order to view, if icon is not functional. Thank you!"
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "PastProject.html",
     "href": "PastProject.html",
-    "title": "PastProject",
+    "title": "Past Project",
     "section": "",
-    "text": "Here I have Included a PDF of a project I have worked on in the past. This is my project for my PA 402 course here at UIC. For this project, I looked into how socioeconomic status and school type shapes average SAT scores. I was able to manipulate and clean data from a chicago data portal in order to create the maps and tables shown using R."
+    "text": "Here I have Included a PDF of a project I have worked on in the past. This is my project for my PA 402 course here at UIC. For this project, I looked into how socioeconomic status and school type shapes average SAT scores. I was able to manipulate and clean data from a Chicago data portal in order to create the maps,graphs and tables shown using R."
   }
 ]

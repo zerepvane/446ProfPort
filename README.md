@@ -1,0 +1,1 @@
+In my website, the home page is an About Me page which then gives a description, links and a picture. I have a past projects page as well which explains a project I have worked on before.Lastly, I have my resume page which holds my resume just in case the link did not work in the About Me section. I chose the flatly theme because it seemed pretty standard and professional.

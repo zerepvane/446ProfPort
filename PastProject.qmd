@@ -1,7 +1,7 @@
 ---
-title: "PastProject"
+title: "Past Project"
 ---
 
-Here I have Included a PDF of a project I have worked on in the past. This is my project for my PA 402 course here at UIC. For this project, I looked into how socioeconomic status and school type shapes average SAT scores. I was able to manipulate and clean data from a chicago data portal in order to create the maps and tables shown using R.
+Here I have Included a PDF of a project I have worked on in the past. This is my project for my PA 402 course here at UIC. For this project, I looked into how socioeconomic status and school type shapes average SAT scores. I was able to manipulate and clean data from a Chicago data portal in order to create the maps,graphs and tables shown using R.
 
 <embed src="Perez402Project.pdf" type= "application/pdf" width= "100%" height= "600px">

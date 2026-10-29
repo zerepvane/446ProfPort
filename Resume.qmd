@@ -1,0 +1,15 @@
+---
+title: "Resume"
+---
+
+<embed src="2026PerezResume.pdf" type= "application/pdf" width= "100%" height= "600px">
+
+					
+
+				
+
+			
+
+		
+
+	
